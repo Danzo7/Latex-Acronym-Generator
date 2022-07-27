@@ -1,0 +1,27 @@
+*{
+    margin:0
+
+}
+body {
+              background-color:#999999;
+              font-family: 'Oswald', 
+                sans-serif;
+  
+  display:flex;
+  align-item:center;
+  flex-direction:column;
+  justify-content:center;
+ gap:10px
+      }
+p,pre
+{
+  color:wheat;
+  font-size:20px;
+  text-align:center;
+}
+
+.textBox
+{
+  height:30px;
+}
+
